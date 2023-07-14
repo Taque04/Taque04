@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taque04
-- 👀 I’m interested in HTML, CSS, javascript and php coding
-- 🌱 I’m currently learning Computer System Engineering
-- 💞️ I’m looking to collaborate on php coding
+- 👀 I’m interested in HTML, CSS, javascript, reactJS and php coding
+- 🌱 I’m currently studying Computer System Engineering
+- 💞️ I’m looking to collaborate on php coding 
 - 📫 How to reach me ... contact me on facebook: Takudzwa Chigadza
 
 <!---
